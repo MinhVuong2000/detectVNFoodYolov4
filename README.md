@@ -1,6 +1,8 @@
 # detectVNFoodYolov4
 Detecting Vietnam Cuisine using Yolov4
 
+Dataset at here: https://www.kaggle.com/minhvuong2000/dataset-for-vietnamese-cuisine
+
 Runtime in Colab is GPU.
 
 If you no use my file, you can use guide bellow.

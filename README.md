@@ -21,9 +21,9 @@ If you no use my file, you can use guide bellow.
 3. Create yolo.names: it include name of classes
 
 4. Create yolo.data: include 
-- line 1: classes = <number of class>
-- line 2:train=<link to file train.txt>
-- line 3:valid=<link to file val.txt>
-- line 4:names=<link to file yolo.names>
+- line 1: classes = < number of class>
+- line 2:train= <link to file train.txt>
+- line 3:valid= <link to file val.txt>
+- line 4:names= <link to file yolo.names>
 - line 5: backup=<link to file backup>
 
